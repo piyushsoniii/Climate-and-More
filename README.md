@@ -47,4 +47,4 @@ The objective is to consolidate real-time atmospheric and air quality API data i
 [Dashboard](https://github.com/piyushsoniii/Climate-and-More/blob/main/Climate%20and%20More.png)
 
 
-**This project represents one of my earliest explorations into Business Intelligence and real-time data monitoring. Originally developed to track urban weather patterns, I have since maintained and updated the codebase to reflect modern data engineering practices. SHARE YOUR THOUGHTS ON THIS 'PEACE'**
+**This project represents one of my earliest explorations into Business Intelligence and real-time data monitoring. Originally developed to track urban weather patterns, I have since maintained and updated the codebase to reflect modern data engineering practices. SHARE YOUR THOUGHTS ON THIS 'PEACE'.**
