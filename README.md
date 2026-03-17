@@ -1,7 +1,7 @@
 # Climate-and-More
 
 ## 📖 Overview
-*A dynamic, interactive data visualization project designed to explore 7 different Indian climate city patterns. Key features include real-time weather forecasting, Rain probability tracking, and comprehensive air quality monitoring.
+*A dynamic, interactive data visualization platform designed to analyze climate patterns across seven diverse Indian cities. Key features include real-time weather forecasting, precipitation probability tracking, and comprehensive air quality monitoring.
 
 ## 🔌 API & Data Source
 This project uses the **Weatherapi ** to populate the dashboard.
