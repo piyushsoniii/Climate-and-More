@@ -1,5 +1,4 @@
 # Climate-and-More
-*Climate and More
 
 ## 📖 Overview
 *A dynamic, interactive data visualization project designed to explore 7 different Indian climate city patterns. Key features include real-time weather forecasting, Rain probability tracking, and comprehensive air quality monitoring.
@@ -44,4 +43,4 @@ The objective is to consolidate real-time atmospheric and air quality API data i
 
   
 ## 📸 Sneak Peek 
-[Dashboard preview](https://github.com/piyushsoniii/Climate-and-More/blob/main/Climate%20and%20More.png)
+[Alt text](https://github.com/piyushsoniii/Climate-and-More/blob/main/Climate%20and%20More.png)
