@@ -42,5 +42,6 @@ The objective is to consolidate real-time atmospheric and air quality API data i
 * Automated Reporting: By utilizing Power Query to connect directly to an external API, the dashboard eliminates manual data entry. This saves significant time and ensures leadership always bases decisions on the freshest possible data.
 
   
-## 📸 Sneak Peek 
-[Alt text](https://github.com/piyushsoniii/Climate-and-More/blob/main/Climate%20and%20More.png)
+## 📸 Sneak Peek <img width="2321" height="1314" alt="Climate and More" src="https://github.com/user-attachments/assets/5f50c0d2-f3cb-4459-a733-92b123935e29" />
+
+[Dashboard](https://github.com/piyushsoniii/Climate-and-More/blob/main/Climate%20and%20More.png)
