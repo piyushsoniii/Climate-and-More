@@ -44,4 +44,4 @@ The objective is to consolidate real-time atmospheric and air quality API data i
 
   
 ## 📸 Sneak Peek 
-[Visit GitHub](https://github.com/piyushsoniii/Climate-and-More/blob/main/Climate%20and%20More.png)
+[Dashboard preview](https://github.com/piyushsoniii/Climate-and-More/blob/main/Climate%20and%20More.png)
